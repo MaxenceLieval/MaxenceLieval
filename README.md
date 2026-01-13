@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maxence Lieval</h1>
-<h3 align="center">A Game Programming student at Isart Digital Paris</h3>
+<h3 align="center">A Game Programming student at ESGI Paris</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxencelieval&label=Profile%20views&color=0e75b6&style=flat" alt="maxencelieval" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxencelieval" alt="maxencelieval" /></a> </p>
 
-- 🔭 I’m currently working on **Luminous Engine**
+- 🔭 I’m currently working on **nothing**
 
 - 🌱 I’m currently learning **C, C++, C#, Python, GLSL, Game Engine Development**
 
